@@ -57,8 +57,6 @@ Prazer, sou **Geovane Borba**.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovaneborba&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-<br/>
-
 <h3> 🌍 &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Geovane Borba](https://img.shields.io/badge/-geovaneborba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovaneborba/)](https://www.linkedin.com/in/geovaneborba/)
