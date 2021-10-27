@@ -4,7 +4,6 @@ Prazer, sou **Geovane Borba**.
 
 > Estudante da área de TI, apaixonado por tecnologia, sempre em processo de aprendizagem.
 
-- 💡&nbsp; | Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 | Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://qi.edu.br/">QI Faculdade & Escola Técnica</a>.
 - 🌱 | Aprendendo mais sobre **PERN STACK**, essa stack consiste em **PostgreSQL**, **Express**, **ReactJS** e **NodeJS**.
 - 😄 | Alguns hobbies: 🛹 skateboard, 🎥 editar vídeos, 🎶 ouvir músicas, 🎮 jogar cs e lol...
