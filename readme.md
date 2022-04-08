@@ -6,7 +6,7 @@ Prazer, sou **Geovane Borba**.
 
 - 🎓 | Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://qi.edu.br/">QI Faculdade & Escola Técnica</a>.
 - 🌱 | Aprendendo mais sobre **PERN STACK**, essa stack consiste em **PostgreSQL**, **Express**, **ReactJS** e **NodeJS**.
-- 😄 | Alguns hobbies: 🛹 skateboard, 🎥 editar vídeos, 🎶 ouvir músicas, 🎮 jogar cs e lol...
+- 😄 | Alguns hobbies: 🛹 skateboard, 🎥 editar vídeos, 🚴‍ mountain bike, 🎶 ouvir músicas, 🎮 jogar cs e lol...
 
 
 <h3> 🚀 &nbsp;Minhas Skills </h3>
