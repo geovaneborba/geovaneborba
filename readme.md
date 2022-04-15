@@ -6,10 +6,9 @@ Prazer, sou **Geovane Borba**.
 
 - 🎓 | Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://qi.edu.br/">QI Faculdade & Escola Técnica</a>.
 - 🌱 | Aprendendo mais sobre **PERN STACK**, essa stack consiste em **PostgreSQL**, **Express**, **ReactJS** e **NodeJS**.
-- 😄 | Alguns hobbies: 🛹 skateboard, 🎥 editar vídeos, 🚴‍ mountain bike, 🎶 ouvir músicas, 🎮 jogar cs e lol...
-
-
-<h3> 🚀 &nbsp;Minhas Skills </h3>
+- 😄 | Alguns hobbies: 🛹 skateboard, 🎥 editar vídeos, 🚴‍ mountain bike, 🎶 ouvir músicas
+<hr />
+<h3>🚀 Minhas Skills </h3>
 
 **Aplicações e Dados**
 
@@ -49,17 +48,18 @@ Prazer, sou **Geovane Borba**.
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-<br/>
-
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovaneborba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovaneborba&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovaneborba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovaneborba&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://www.codewars.com/users/geovaneborba">
+    <img src="https://www.codewars.com/users/geovaneborba/badges/small" alt="Geovane Borba Codewars"/>
+  </a>
 </div>
 
-<h3> 🌍 &nbsp;Onde me encontrar: </h3> 
+<h3>🌍 Onde me encontrar </h3> 
 
-[![Linkedin: Geovane Borba](https://img.shields.io/badge/-geovaneborba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovaneborba/)](https://www.linkedin.com/in/geovaneborba/)
-[![Gmail Badge](https://img.shields.io/badge/-geovanne@live.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geovanne@live.com)](mailto:geovanne@live.com)
-[![GitHub geovane borba]( https://img.shields.io/github/followers/geovaneborba?label=follow&style=social)](https://github.com/geovaneborba)
+  [![Linkedin: Geovane Borba](https://img.shields.io/badge/-geovaneborba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovaneborba/)](https://www.linkedin.com/in/geovaneborba/)
+  [![Gmail Badge](https://img.shields.io/badge/-geovanne@live.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geovanne@live.com)](mailto:geovanne@live.com)
+  [![GitHub geovane borba]( https://img.shields.io/github/followers/geovaneborba?label=follow&style=social)](https://github.com/geovaneborba)
 
-![](https://komarev.com/ghpvc/?username=geovaneborba&color=006bed)
+  ![](https://komarev.com/ghpvc/?username=geovaneborba&color=006bed)
