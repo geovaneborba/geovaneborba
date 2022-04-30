@@ -5,10 +5,11 @@ Prazer, sou **Geovane Borba**.
 > Estudante da área de TI, apaixonado por tecnologia, sempre em processo de aprendizagem.
 
 - 🎓 | Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://qi.edu.br/">QI Faculdade & Escola Técnica</a>.
-- 🌱 | Aprendendo mais sobre **PERN STACK**, essa stack consiste em **PostgreSQL**, **Express**, **ReactJS** e **NodeJS**.
+- 🎯 | Aprendendo mais sobre **PERN STACK**, essa stack consiste em **PostgreSQL**, **Express**, **ReactJS** e **NodeJS**.
 - 😄 | Alguns hobbies: 🛹 skateboard, 🎥 editar vídeos, 🚴‍ mountain bike, 🎶 ouvir músicas
 <hr />
-<h3>🚀 Minhas Skills </h3>
+
+<h3> 🚀 Tecnologias que eu gosto de utilizar 💜 <h3/>
 
 **Aplicações e Dados**
 
@@ -21,7 +22,7 @@ Prazer, sou **Geovane Borba**.
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
-  ![Knex](https://img.shields.io/badge/-KnexJS-333333?style=flat&logo=knex.js)
+  ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
   ![TypeORM](https://img.shields.io/badge/-TypeORM-333333?style=flat&logo=typeorm)
   
 **Linters**
@@ -48,6 +49,13 @@ Prazer, sou **Geovane Borba**.
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
+<h3>🌍 Onde me encontrar </h3> 
+
+  [![Linkedin: Geovane Borba](https://img.shields.io/badge/-geovaneborba-333333?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovaneborba/)](https://www.linkedin.com/in/geovaneborba/)
+  [![Gmail Badge](https://img.shields.io/badge/-geovanne@live.com-333333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geovanne@live.com)](mailto:geovanne@live.com)
+  ![](https://komarev.com/ghpvc/?username=geovaneborba&color=333333)
+
+  
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovaneborba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovaneborba&layout=compact&langs_count=16&theme=dracula"/>
@@ -56,10 +64,3 @@ Prazer, sou **Geovane Borba**.
   </a>
 </div>
 
-<h3>🌍 Onde me encontrar </h3> 
-
-  [![Linkedin: Geovane Borba](https://img.shields.io/badge/-geovaneborba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovaneborba/)](https://www.linkedin.com/in/geovaneborba/)
-  [![Gmail Badge](https://img.shields.io/badge/-geovanne@live.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geovanne@live.com)](mailto:geovanne@live.com)
-  [![GitHub geovane borba]( https://img.shields.io/github/followers/geovaneborba?label=follow&style=social)](https://github.com/geovaneborba)
-
-  ![](https://komarev.com/ghpvc/?username=geovaneborba&color=006bed)
