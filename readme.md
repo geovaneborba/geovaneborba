@@ -1,6 +1,8 @@
-## 😀 Salve devs!
 
-Prazer, sou **Geovane Borba**. 
+<p align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=MonoLisa&size=32&width=700&color=9466FF&lines=just+a+simple+guy+who+converts;caffeine+into+code."(https://git.io/typing-svg)>
+ </p>
+
 
 > Estudante da área de TI, apaixonado por tecnologia, sempre em processo de aprendizagem.
 
