@@ -57,12 +57,12 @@
   [![Gmail Badge](https://img.shields.io/badge/-geovanne@live.com-333333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geovanne@live.com)](mailto:geovanne@live.com)
   ![](https://komarev.com/ghpvc/?username=geovaneborba&color=333333)
 
-  
+ <a href="https://www.codewars.com/users/geovaneborba">
+    <img src="https://www.codewars.com/users/geovaneborba/badges/small" alt="Geovane Borba Codewars"/>
+  </a>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovaneborba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovaneborba&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-    <a href="https://www.codewars.com/users/geovaneborba">
-    <img src="https://www.codewars.com/users/geovaneborba/badges/small" alt="Geovane Borba Codewars"/>
-  </a>
+  
 
