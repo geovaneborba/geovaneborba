@@ -11,7 +11,7 @@
 - 😄 | Alguns hobbies: 🛹 skateboard, 🎥 editar vídeos, 🚴‍ mountain bike, 🎶 ouvir músicas
 <hr />
 
-<h3> 🚀 Tecnologias que eu gosto de utilizar 💜 <h3/>
+### 🚀 Tecnologias que eu gosto de utilizar 💜 
 
 **Aplicações e Dados**
 
@@ -51,7 +51,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-<h3>🌍 Onde me encontrar </h3> 
+### 🌍 Onde me encontrar 
 
   [![Linkedin: Geovane Borba](https://img.shields.io/badge/-geovaneborba-333333?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovaneborba/)](https://www.linkedin.com/in/geovaneborba/)
   [![Gmail Badge](https://img.shields.io/badge/-geovanne@live.com-333333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geovanne@live.com)](mailto:geovanne@live.com)
